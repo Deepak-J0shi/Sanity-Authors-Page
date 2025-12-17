@@ -4,9 +4,12 @@ A **Headless CMS Content Studio** for managing blog posts, author pages, poems, 
 
 Live Demo: [https://sanity-for-blogs-and-poems.vercel.app](https://sanity-for-blogs-and-poems.vercel.app) ([GitHub][1])
 
+
+<img width="705" height="594" alt="image" src="https://github.com/user-attachments/assets/7c7fbd8e-58b6-4972-b14f-8eb17e2ac1dd" />
+
 ---
 
-## 🚀 About This Project
+## About This Project
 
 **Sanity Authors Page** is a content management studio built with **Sanity.io** that provides a clean and intuitive interface to:
 
